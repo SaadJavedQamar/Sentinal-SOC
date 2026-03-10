@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel SOC",
+  "description": "A comprehensive Security Operations Center (SOC) tool for threat monitoring, incident response, and AI-powered security analysis.",
+  "requestFramePermissions": []
+}
